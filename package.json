@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Pete Lee(welikeheon)",
+  "homepage": "https://github.com/welikeheon/mammals#readme",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.20"
